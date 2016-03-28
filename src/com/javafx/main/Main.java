@@ -114,7 +114,7 @@ public class Main extends Application {
 		carregaComboBox();
 
 		// Stage
-		primaryStage.setTitle("JavaFX 8 Tutorial 15 - Login From SQLite Database - YouTube");
+		primaryStage.setTitle("JavaFX - MySQL - Lista de Pessoas");
 		primaryStage.initStyle(StageStyle.DECORATED);
 
 		// Tela 1 - Login
